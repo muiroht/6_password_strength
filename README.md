@@ -1,5 +1,5 @@
 # Password Strength Calculator
-This project calculate a strength password. The strength within 1 to 10, where 10 is the best password
+This project is designed to calculate a secure password. The strength is between 1 and 10, where 10 is the best password
  
 # How to launch
 Example of script launch in Linux, Python 3.5:
